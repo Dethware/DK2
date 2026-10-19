@@ -1,0 +1,18 @@
+# Game data: the install is a local symlink and its contents are copyrighted
+/game
+/extracted/
+
+# OpenKeeper is a separate clone with its own repository
+/OpenKeeper/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build output
+build/
+*.wav
+
+# IDE
+*.kdev4
+.kdev4/
